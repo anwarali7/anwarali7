@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anwarali7
 - 👀 I’m interested in programming, web development, javascript, video games.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning Typescript ans Sass.
 - 💞️ I’m looking to collaborate on all sorts of projects.
 - 📫 How to reach me :
 
