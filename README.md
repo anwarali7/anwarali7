@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali
+- 👋 Hi, I’m Ali.
 - 👀 I’m interested in programming, web development, javascript, video games.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on all sorts of projects.
