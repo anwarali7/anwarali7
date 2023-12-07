@@ -1,4 +1,4 @@
-À la recherche d'une alternance sur Paris et périphérie en tant que Développeur Web Full Stack pour 2024.
+À la recherche d'une alternance sur Paris et périphérie en tant que Développeur Web Full Stack pour 2024. \
 Looking for a work-study apprenticeship in Paris and the surrounding area as a Full Stack Web Developer for 2024.
 
 - 👋 Hi, I’m Ali.
@@ -7,10 +7,9 @@ Looking for a work-study apprenticeship in Paris and the surrounding area as a F
 - 💞️ I’m looking to collaborate on all sorts of projects.
 - 📫 How to reach me :
 
-https://www.linkedin.com/in/ali-anwar-7a7273154
-https://twitter.com/anwarali0597
-https://www.reddit.com/user/alianwar7
-
+https://www.linkedin.com/in/alianwar97/ \
+https://twitter.com/anwarali0597/ \
+https://www.reddit.com/user/alianwar7/
 
 <!---
 anwarali7/anwarali7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
